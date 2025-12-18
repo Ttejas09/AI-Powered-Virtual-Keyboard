@@ -1,7 +1,7 @@
 # ⌨️ AI Virtual Keyboard using OpenCV
 
 ![Project Demo](https://www.linkedin.com/posts/tejas-tajane-b36451380_computervision-pythondeveloper-handtracking-activity-7407401663617118209-jg9Q?utm_source=share&utm_medium=member_android&rcm=ACoAAF4J0hoBkF3X7g_fyd1UteJGmaGbKVgunp4)
-*(Replace the filename above with the actual path to your image if different)*
+
 
 A fully functional virtual keyboard that allows you to type in mid-air using hand gestures. Built from scratch using **Python**, **OpenCV**, and **MediaPipe**, this project transforms a standard webcam into a touchless input device.
 
